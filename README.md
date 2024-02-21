@@ -1,10 +1,12 @@
 
+<html>
 <head>
   <meta property="og:title" content="Malariya-Presence-CNN-Python">
   <meta property="og:description" content="CNN Modal Detects the Presence of Malaria using python Tensorflow / Keras">
-  <meta property="og:image" content="URL to an image representing your repository (e.g., logo).">
+  <meta property="og:image" content="https://github.com/shehari007/Malariya-Presence-CNN-Python/blob/main/logo/logo.jpg">
   <meta property="og:url" content="https://github.com/shehari007/Malariya-Presence-CNN-Python">
 </head>
+</html>
 
 
 # CNN Modal Detects the Presence of Malaria
