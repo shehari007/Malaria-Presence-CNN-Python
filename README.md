@@ -1,4 +1,4 @@
-# CNN Malaria Findings Python Script
+# CNN Modal Detects the Presence of Malaria
 
 ## Dataset => <a href="https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data" target="_blank">download from here</a>
 
